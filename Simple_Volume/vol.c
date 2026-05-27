@@ -29,6 +29,5 @@ void Fx_FLT_VOL(unsigned int *ctx)
     int i;
     for (i = 0; i < 8; i++) {
         fxBuf[i]     = fxBuf[i] * lvl;
-        fxBuf[i + 8] = fxBuf[i + 8] * lvl;
     }
 }
