@@ -1,0 +1,19 @@
+{
+    "effect_name":"cuPitch",
+    "audio_func_name":"Fx_FLT_PitchSHFT",
+    "gid":7,
+    "fxid":401,
+    "fxid_version":"1.00",
+    "flags_byte":1,
+    "audio_nop":false,
+    "comment":"simple octave up",
+    "params":[
+        {
+            "name":"Mix",
+            "type":"knob",
+            "min":0,
+            "max":100,
+            "default":50
+        }
+    ]
+}
