@@ -185,13 +185,4 @@ void Fx_FLT_PitchSHFT(unsigned int *ctx)
 
 ---
 
-## Current Confirmed Capabilities
 
-현재 runtime 환경에서 다음 구현 가능성이 확인되었다.
-
-* large delay buffer
-* circular delay processing
-* long delayed playback
-* DSP RAM read/write access
-* granular processing 기반
-* future pitch-shift / harmonizer 구현 기반 확보
