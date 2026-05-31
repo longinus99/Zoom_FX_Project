@@ -1,0 +1,19 @@
+{
+    "effect_name":"cuPitch",
+    "audio_func_name":"Fx_FLT_PitchSHFT",
+    "gid":7,
+    "fxid":402,
+    "fxid_version":"1.00",
+    "flags_byte":1,
+    "audio_nop":false,
+    "comment":"stock-style fixed octave pitch shifter",
+    "params":[
+        {
+            "name":"Oct",
+            "type":"knob",
+            "min":0,
+            "max":100,
+            "default":0
+        }
+    ]
+}
