@@ -1,0 +1,56 @@
+{
+  "effect_name": "MapSeq",
+  "gid": 8,
+  "fxid": 1714,
+  "fxid_version": "1.00",
+  "flags_byte": 1,
+  "params": [
+    {
+      "name": "BPM",
+      "max": 240,
+      "default": 125
+    },
+    {
+      "name": "S0102",
+      "max": 8,
+      "default": 1
+    },
+    {
+      "name": "S0304",
+      "max": 8,
+      "default": 7
+    },
+    {
+      "name": "S0506",
+      "max": 8,
+      "default": 7
+    },
+    {
+      "name": "S0708",
+      "max": 8,
+      "default": 1
+    },
+    {
+      "name": "S0910",
+      "max": 8,
+      "default": 7
+    },
+    {
+      "name": "S1112",
+      "max": 8,
+      "default": 7
+    },
+    {
+      "name": "S1314",
+      "max": 8,
+      "default": 1
+    },
+    {
+      "name": "S1516",
+      "max": 8,
+      "default": 7
+    }
+  ],
+  "audio_func_name": "Fx_DLY_MapSeq",
+  "dsp_cost": 46.0
+}

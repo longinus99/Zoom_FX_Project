@@ -1,0 +1,21 @@
+{
+  "effect_name": "MapSong",
+  "gid": 8,
+  "fxid": 1715,
+  "fxid_version": "1.00",
+  "flags_byte": 1,
+  "params": [
+    {
+      "name": "BPM",
+      "max": 240,
+      "default": 125
+    },
+    {
+      "name": "Mix",
+      "max": 100,
+      "default": 100
+    }
+  ],
+  "audio_func_name": "Fx_DLY_MapSong",
+  "dsp_cost": 46.0
+}
